@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF9C4,100:FFECB3&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=81C784&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Syno;+Web+Developer+%26+Graphic+Designer;Building+Clean+UI+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&pause=1000&color=F4D03F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Syno;+Web+Developer+%26+Graphic+Designer;Building+Clean+UI+%26+Scalable+Systems" />
 </p>
 
 # 🌸 About Me:
