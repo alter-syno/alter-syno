@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:B2DFDB&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF9C4,100:FFECB3&height=120&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=81C784&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Syno;+Web+Developer+%26+Graphic+Designer;Building+Clean+UI+%26+Scalable+Systems" />
 </p>
 
-# 🌿 About Me:
-🌱 I'm currently working on<br>Building web apps, admin dashboards, and creative projects that mix clean UI with solid functionality.<br><br>🤝 I'm looking to collaborate on<br>Web development projects, creative tech ideas, and startup-style products.<br><br>🌾 I'm looking for help with<br>System architecture decisions, backend optimization, and scaling projects properly.<br><br>🍃 I'm currently learning<br>Advanced JavaScript, React patterns, backend logic, and improving my overall software engineering skills.<br><br>💬 Ask me about<br>Web development, UI/UX design, filmmaking, creative workflows, or turning ideas into real projects.<br><br>⚡ Fun fact<br>I started learning logic through Minecraft command blocks and now build real-world applications 🚀
+# 🌸 About Me:
+🌻 I'm currently working on<br>Building web apps, admin dashboards, and creative projects that mix clean UI with solid functionality.<br><br>🌺 I'm looking to collaborate on<br>Web development projects, creative tech ideas, and startup-style products.<br><br>🌷 I'm looking for help with<br>System architecture decisions, backend optimization, and scaling projects properly.<br><br>🌼 I'm currently learning<br>Advanced JavaScript, React patterns, backend logic, and improving my overall software engineering skills.<br><br>💬 Ask me about<br>Web development, UI/UX design, filmmaking, creative workflows, or turning ideas into real projects.<br><br>⚡ Fun fact<br>I started learning logic through Minecraft command blocks and now build real-world applications 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23F8BBD0.svg?logo=Instagram&logoColor=white)](https://instagram.com/allvexnation1) [![YouTube](https://img.shields.io/badge/YouTube-%23FFCDD2.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfadMmHyVAGKLhuWtpcZEkw) [![email](https://img.shields.io/badge/Email-B2DFDB?logo=gmail&logoColor=white)](mailto:jhonjaimeladines17@outlook.com) 
@@ -24,6 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=allvexnation&icon=0&color=81C784)](https://visitcount.itsvg.in)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B2DFDB,100:C8E6C9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFECB3,100:FFF9C4&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
